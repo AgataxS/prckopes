@@ -1,0 +1,8 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+body{background:#f1f5f9;color:#0f172a}
+a{color:#2563eb;text-decoration:none}
+button{cursor:pointer}
+h1{font-size:26px;margin-bottom:24px;font-weight:700}
+h2{font-size:22px;margin-bottom:16px;font-weight:600}
+input,select,button{padding:8px 10px;font-size:15px;border:1px solid #cbd5e1;border-radius:4px}
+input:focus,select:focus{outline:2px solid #2563eb3d}

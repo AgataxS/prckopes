@@ -1,0 +1,12 @@
+h2{margin-bottom:18px;font-size:22px}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+  gap:18px
+}
+.grid button{
+  padding:22px;background:#fff;border:1px solid #cbd5e1;
+  border-radius:8px;cursor:pointer;font-size:16px;text-align:center;
+  box-shadow:0 1px 4px rgba(0,0,0,.05)
+}
+.grid button:hover{background:#f1f5f9}

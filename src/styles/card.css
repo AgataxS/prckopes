@@ -1,0 +1,16 @@
+.card{
+    width:340px;margin:80px auto;padding:32px;background:#fff;
+    border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.07);
+    font-family:system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif
+  }
+  h1{margin:0 0 24px;text-align:center;font-size:22px}
+  form input{
+    width:100%;padding:9px 11px;margin-bottom:14px;font-size:14px;
+    border:1px solid #cbd5e1;border-radius:4px
+  }
+  form button{
+    width:100%;padding:10px;background:#2563eb;color:#fff;
+    border:0;border-radius:4px;font-weight:600;cursor:pointer
+  }
+  .link{display:block;text-align:center;margin-top:14px;color:#2563eb;font-size:14px}
+  
